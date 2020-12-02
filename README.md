@@ -25,6 +25,9 @@ For modular prototyping I suggest using 4x B10K & 2X A10k for linear and logarit
 ### Recomended jumpers:
 + Square tipped jumpers ([adafruit](https://www.adafruit.com/product/1957))
 
+### Rubber feet
++ Little Bumpers ([adafruit](https://www.adafruit.com/product/550)) *untested, but looks great!*
+
 ---
 REV1     
 Build and use at your own risk! I am not responsible for any damage to self or otherwise that arises from using this project!

@@ -9,7 +9,7 @@
 + Pin 2: accessible via pin socket
 + Pin 3: + (vcc / 3.3v / 5v)
 
-Each potentiometer is accessible via the 1-6 pin socket corresponding to the potentiometer L->R
+Each potentiometer is accessible via the 3x 1-6 pin socket corresponding to the potentiometer L->R     
 GND & voltage available in 4 locations, all common.
 
 Pin sockets are all common and are placed to allow easy configuration above, below, or next to a breadboard.     

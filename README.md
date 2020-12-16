@@ -3,7 +3,7 @@
 
 REV2 is best produced with OSHPPARK's Aftferdark Service.
 
-<img src="ss1.png" width="400px"><img src="ss2.png" width="400px">
+<img src="ss1.png" width="500px">
 
 ### Each potentiometer is wired up the following:
 + Pin 1: Ground (AGND)

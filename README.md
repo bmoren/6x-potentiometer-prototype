@@ -1,8 +1,10 @@
 # 6x-potentiometer-prototype
 6 potentiometers broken out into a stand alone board for prototyping.
 
-<img src="front.png">
-<img src="back.png">
+REV2 is best produced with OSHPPARK's Aftferdark Service.
+
+<img src="ss1.png">
+<img src="ss2.png">
 
 ### Each potentiometer is wired up the following:
 + Pin 1: Ground (AGND)
@@ -26,10 +28,10 @@ For modular prototyping I suggest using 4x B10K & 2X A10k for linear and logarit
 + Square tipped jumpers ([adafruit](https://www.adafruit.com/product/1957))
 
 ### Rubber feet
-+ Little Bumpers ([adafruit](https://www.adafruit.com/product/550)) *!untested – but look good!*
+might be nice?
 
 ---
-REV1     
+REV2   
 Build and use at your own risk! I am not responsible for any damage to self or otherwise that arises from using this project!
 
 [CC BY-SA-NC 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)     

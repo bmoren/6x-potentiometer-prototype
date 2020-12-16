@@ -3,18 +3,15 @@
 
 REV2 is best produced with OSHPPARK's Aftferdark Service.
 
-<img src="ss1.png">
-<img src="ss2.png">
+<img src="ss1.png" width="400px"><img src="ss2.png" width="400px">
 
 ### Each potentiometer is wired up the following:
 + Pin 1: Ground (AGND)
 + Pin 2: accessible via pin socket
 + Pin 3: + (vcc / 3.3v / 5v)
 
-Each potentiometer is accessible via the 3x 1-6 pin socket corresponding to the potentiometer L->R     
-GND & voltage available in 4 locations, all common.
-
-Pin sockets are all common and are placed to allow easy configuration above, below, or next to a breadboard.     
+Each potentiometer's analog signal is accessible via the 1-6 pins corresponding to the potentiometer L->R     
+GND & voltage inputs available in each pins bank. 
 
 See the [schematic](schematic.pdf) for more details.
 
@@ -26,6 +23,11 @@ For modular prototyping I suggest using 4x B10K & 2X A10k for linear and logarit
 
 ### Recomended jumpers:
 + Square tipped jumpers ([adafruit](https://www.adafruit.com/product/1957))
+
+### Recomended Pins:
+8x 2.54mm Vertical Pin headers for female/female jumper cables 
+8x 2.54mm Vertical Pin sockets for male/male jumper cables
+8x 2.54mm Angled Pin headers to keep the potentiometers as free from cable interference as possible
 
 ### Rubber feet
 might be nice?
